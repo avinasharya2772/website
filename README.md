@@ -47,6 +47,7 @@ Create web server using this command.
 
 
 Create AWS Web Server Using httpd.
+
 Use this command to start httpd server.
 
 yum install httpd
