@@ -42,3 +42,24 @@ Monitoring and Scaling: Utilise AWS CloudWatch to monitor your instance's perfor
 
 
 
+
+Create web server using this command.
+Create AWS Web Server Using httpd.
+Use this command to start httpd server.
+
+yum install httpd
+systemctl start httpd
+
+Then host a website.
+Go to /var/www/html
+then file upload
+
+Go to security option.
+Add rules .
+
+http
+https
+
+Then open in Brower using Ip address.
+
+#linuxworld #vimaldaga #awswebserver #awscloud
