@@ -44,6 +44,8 @@ Monitoring and Scaling: Utilise AWS CloudWatch to monitor your instance's perfor
 
 
 Create web server using this command.
+
+
 Create AWS Web Server Using httpd.
 Use this command to start httpd server.
 
